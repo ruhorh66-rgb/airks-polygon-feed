@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "channel": "prerelease",
+  "version": "3.0.0-beta.2",
+  "published_at": "2026-09-18T05:09:34.0344438Z",
+  "installer_url": "https://github.com/ruhorh66-rgb/airks-polygon-feed/releases/download/v3.0.0-beta.2/AIRKS-Setup-v3.0.0-beta.2.exe",
+  "installer_sha256": "03ed5b1a4fbec05ecd15c4b0d1fda9db7df85991b9a436435532bf0b0ec1fd6d",
+  "installer_size": 21359104,
+  "installer_signature": "musO1MZF/bOKzjWlLTj7xIQlGUhsKp9D+5Ow/UmVwbo/xj6CgtP9y1sh5RzrZT63ukP6fettq1a11bQaJ9d6Dg==",
+  "manifest_signature_v2": "3ZEv/PRSci1sKTdw7EqJUYeiUf6hA5bK64yeTHmOji163xIvnty87qYQfI+ZY7mREjb4C9Ujjj1EWMIjdQlLDA==",
+  "signing_key_id": "airks-update-2026-01",
+  "release_notes_url": "https://github.com/ruhorh66-rgb/airks-polygon-feed/releases/tag/v3.0.0-beta.2"
+}
